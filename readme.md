@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Yaniv
+# 👋 ¡Hola!
 
 Bienvenido a mi perfil de GitHub 🚀. Soy **desarrollador**, **investigador** y apasionado por la **tecnología**. Aquí encontrarás mis proyectos más recientes, que abarcan desde **aplicaciones web y móviles** hasta **inteligencia artificial**, análisis de **datos acústicos**, e **investigación académica**.
 
