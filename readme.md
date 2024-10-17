@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Yaniv
 
 Bienvenido a mi perfil de GitHub 🚀. Soy **desarrollador**, **investigador** y apasionado por la **tecnología**. Aquí encontrarás mis proyectos más recientes, que abarcan desde **aplicaciones web y móviles** hasta **inteligencia artificial**, análisis de **datos acústicos**, e **investigación académica**.
 
@@ -24,21 +24,14 @@ Bienvenido a mi perfil de GitHub 🚀. Soy **desarrollador**, **investigador** y
 - **Descripción:** App móvil que mide el ruido ambiental en dBA, con exportación de datos y clasificación de fuentes sonoras mediante IA.
 - **Tecnologías:** React Native, Python, CNN, YAMNet.
 - **Estado:** Activo.
-
 ---
 
 ## 🎓 Investigación y Conocimientos
-- Derecho Constitucional 📜
 - Optimización de procesos industriales y productividad 🏭
 - Análisis de mercado y estrategias de negocio 📈
-- Historia literaria y teoría crítica 📚
+
 
 ---
-
-## 📫 ¿Cómo contactarme?
-- **Email:** [tu.email@example.com](mailto:tu.email@example.com)
-- **LinkedIn:** [linkedin.com/in/tuperfil](https://linkedin.com/in/tuperfil)
-- **Blog Personal:** [tu-blog.com](https://tu-blog.com) *(Opcional)*
 
 ---
 
